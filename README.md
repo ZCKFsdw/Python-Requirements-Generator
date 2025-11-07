@@ -8,5 +8,5 @@ No requirements.txt needed — this tool is self-contained and zero external dep
 Just run:
 
 
-python req_generator_v3.py
+python testing.py
 And you're ready to scan scripts or entire projects with style.
